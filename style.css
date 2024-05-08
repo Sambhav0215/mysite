@@ -1,0 +1,49 @@
+
+h1{
+    margin: 20px auto 0 auto;
+    font-family: "Sacramento", cursive;
+
+}
+.back {
+    height: 600px;
+    background-color: #E4F9F5;
+    position: relative;
+    right: 0px;
+    left: 0px;
+}
+
+
+ p {
+    font-family: "Montserrat", sans-serif;
+ }
+body {
+    margin: 0px;
+    text-align: center;
+
+
+}
+.cloud {
+ width: 100px;
+ margin-left: 600px;
+ padding-top: 100px;
+}
+.bcloud {
+   
+    width: 150px;
+    height: 80px;
+    position: absolute;
+    left: 150px;
+    top: 200px;
+}
+
+.mountain {
+    width: 400px;
+    height: 200px;
+    position: absolute;
+    margin: 0 auto;
+    right: 290px;
+    left: 290px;
+    top: 300px;
+}
+
+
