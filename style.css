@@ -1,10 +1,21 @@
-
 h1{
-    margin: 20px auto 0 auto;
+    margin: 10px auto 0 auto;
     font-family: "Sacramento", cursive;
+    font-style: italic;
+    font-size: 4.40rem;
+    color:#11999E  ;
+    /*line-height: 2; same as margin-top*/ 
+    font-weight: normal;
 
 }
-.back {
+h2{
+    color:#66BFBF ;
+}
+h3 {
+    color:#11999E ;
+}
+
+.upper {
     height: 600px;
     background-color: #E4F9F5;
     position: relative;
@@ -15,7 +26,11 @@ h1{
 
  p {
     font-family: "Montserrat", sans-serif;
+    margin-top: 0px;
  }
+.eng {
+    color: #11999E;
+}
 body {
     margin: 0px;
     text-align: center;
@@ -29,8 +44,7 @@ body {
 }
 .bcloud {
    
-    width: 150px;
-    height: 80px;
+    width: 100px;
     position: absolute;
     left: 150px;
     top: 200px;
@@ -43,7 +57,20 @@ body {
     margin: 0 auto;
     right: 290px;
     left: 290px;
-    top: 300px;
+    top: 350px; 
 }
+   
+
+.mid-ele {
+    margin-top: 15px;
+}
+
+.web-img {
+    border-radius: 100%;
+}
+.git {
+    margin-left: 5px;
+}
+
 
 
